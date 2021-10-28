@@ -1,0 +1,6 @@
+haphong|123|1000003
+hoainam|1234|100000
+maiphuong|123|2000000
+duong|123|10000
+hoang|123|0
+minmin|123456|10000000

@@ -1,0 +1,5 @@
+12221|lich|nam|19|5|sang|boiban|1
+PV01|Dong|nam|19|10|fulltime|BoiBan|1
+PV02|Lich|nam|20|10|chieu|boi ban|0
+SP01|Quyet|nam|19|26|sáng|shipper|4
+nv01|So|nam|33|20|chieu|shipper|11234|Min|N?|19|30|6|??u b?p|1

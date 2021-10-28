@@ -1,0 +1,10 @@
+tc11|Khanh|12
+KhachDB003|haphong|13
+KhachDB003|haphong|166
+KhachDB003|haphong|44
+KhachDB003|haphong|12
+KhachDB003|haphong|11
+KhachDB003|hoang|55
+dc2|hung|77123456|abc|5
+KhachDB|minmin|6
+123|lily|10

@@ -1,0 +1,2 @@
+DB01|Phòng|Nam|19|30|Bep Truong|20
+DB02|Phương|nữ|20|20|Bep Pho|10
